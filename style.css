@@ -1,0 +1,2 @@
+.bg_example[custom="true"] .pk-tb-pin { display: none; }
+.pk-tb-badge { display: none; position: absolute; top: 6px; left: 50%; z-index: 3; transform: translateX(-50%); font-size: 13px; color: var(--SmartThemeQuoteColor); text-shadow: 0 0 3px #000; pointer-events: none; }
